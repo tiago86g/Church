@@ -6,6 +6,7 @@ import KanonEShadi from './components/pages/KanonEShadi/KanonEShadi';
 import Akhbar from './components/pages/Akhbar/Akhbar';
 import Khanevade from './components/pages/Khanevade/Khanevade';
 import Javanan from './components/pages/Javanan/Javanan';
+import DarBareMa from './components/pages/DarBareMa/DarBareMa';
 
 function App() {
   return (
@@ -21,6 +22,8 @@ function App() {
             <Route exact path="/akhbar" component={Akhbar} />
             <Route exact path="/khanevade" component={Khanevade} />
             <Route exact path="/javanan" component={Javanan} />
+            <Route exact path="/dar-bare-ma" component={DarBareMa} />
+
             {/* pages components */}
           </Switch>
         </div>
