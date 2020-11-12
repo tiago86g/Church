@@ -1,6 +1,7 @@
 import React from 'react';
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 import MoezeHa from './components/pages/MoezeHa/MoezeHa';
+import KhaneSorod from './components/pages/KhaneSorod/KhaneSorod';
 
 function App() {
   return (
@@ -10,7 +11,9 @@ function App() {
         <div className="main">
           <Switch>
             <Route exact path="/" />
-            <Route exact path="/moezeha" component={MoezeHa} />
+            <Route exact path="/moeze-ha" component={MoezeHa} />
+            <Route exact path="/khane-sorod" component={KhaneSorod} />
+
             {/* pages components */}
           </Switch>
         </div>
