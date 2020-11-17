@@ -1,13 +1,13 @@
 import React from 'react';
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
-import MoezeHa from './client/components/pages/MoezeHa/MoezeHa';
-import KhaneSorod from './client/components/pages/KhaneSorod/KhaneSorod';
-import KanonEShadi from './client/components/pages/KanonEShadi/KanonEShadi';
-import Akhbar from './client/components/pages/Akhbar/Akhbar';
-import Khanevade from './client/components/pages/Khanevade/Khanevade';
-import Javanan from './client/components/pages/Javanan/Javanan';
-import DarBareMa from './client/components/pages/DarBareMa/DarBareMa';
-import FaaliatHa from './client/components/pages/FaaliatHa/FaaliatHa';
+import MoezeHa from './client/containers/MoezeHa/MoezeHa';
+import KhaneSorod from './client/containers/KhaneSorod/KhaneSorod';
+import KanonEShadi from './client/containers/KanonEShadi/KanonEShadi';
+import Akhbar from './client/containers/Akhbar/Akhbar';
+import Khanevade from './client/containers/Khanevade/Khanevade';
+import Javanan from './client/containers/Javanan/Javanan';
+import DarBareMa from './client/containers/DarBareMa/DarBareMa';
+import FaaliatHa from './client/containers/FaaliatHa/FaaliatHa';
 
 function App() {
   return (
