@@ -1,0 +1,108 @@
+
+   {
+    "data": [
+        {
+            "id": 1,
+            "name": "Mozeha",
+            "props": [
+                {
+                    "id": 1,
+                    "picture": "",
+                    "popeName": "",
+                    "title": "",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "KhaneSorod",
+            "props": [
+                {
+                    "id": 1,
+                    "sorodName(title)": "",
+                    "pictureUrl": "",
+                    "voiceUrl": "",
+                    "videoUrl": "",
+                    "sorodText": "",
+                },
+            ]
+        },
+        {
+            "id": 3,
+            "name": "KetabMoghadas",
+            "props": [
+                {
+                    "id": 1,
+                    "darsName": "",
+                    "pictureUrl": "",
+                    "voiceUrl": "",
+                    "darsText": ""
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "ghesehayeeKodakan",
+            "props": [
+                {
+                    "id": 1,
+                    "gheseName": "",
+                    "pictureUrl": "",
+                    "voiceUrl": "",
+                    "gheseText": ""
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "sorodhayeeKodakan",
+            "props": [
+                {
+                    "id": 1,
+                    "sorodName": "",
+                    "pictureUrl": "",
+                    "voiceUrl": "",
+                    "videoUrl": "",
+                    "sorodText": ""
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "akhbar(News)",
+            "props": [
+                {
+                    "id": 1,
+                    "title": "",
+                    "pictureUrl": "",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "id":7,
+            "name":"khanevade",
+            "props":[           
+                {
+                    "id":1,
+                    "title":"",
+                    "pictureUrl":"",
+                    "description":""
+                }
+            ]
+        },
+        {
+            "id":8,
+            "name":"javanan",
+            "props":[
+                {
+                    "id":1,
+                    "title":"",
+                    "pictureUrl":"",
+                    "description":""
+                }        
+            ]
+        }
+    ]
+}
