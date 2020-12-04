@@ -8,12 +8,14 @@ import Khanevade from './client/containers/Khanevade/Khanevade';
 import Javanan from './client/containers/Javanan/Javanan';
 import DarBareMa from './client/containers/DarBareMa/DarBareMa';
 import FaaliatHa from './client/containers/FaaliatHa/FaaliatHa';
+import Header from './client/components/header/Header';
+import './index.css';
 
 function App() {
   return (
     <div className="App">
       <Router>
-        {/* navbar component */}
+        <Header />
         <div className="main">
           <Switch>
             <Route exact path="/" />
